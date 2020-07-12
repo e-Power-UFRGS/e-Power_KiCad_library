@@ -1,2 +1,2 @@
-# e-Power_KiCad_library
-e-Power KiCad library
+# e-Power_UFRGS_KiCad_library
+e-Power UFRGS KiCad library
