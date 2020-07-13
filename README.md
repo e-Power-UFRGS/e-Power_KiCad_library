@@ -27,7 +27,7 @@ git add .                    adiciona todos arquivos alterados
 git commit -m "<message>"    realiza o commit com a mensagem que está entre aspas
 git push origin master       envia para o servidor central as alterações feitas
 git pull                     requisita do servidor central as alterações feitas
-````
+```
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
