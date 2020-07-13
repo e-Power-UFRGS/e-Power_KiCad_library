@@ -1,7 +1,6 @@
 # e-Power UFRGS KiCad library
-e-Power UFRGS KiCad library
 
-É recomendável olhar esse vídeo pra saber o básico: https://www.youtube.com/watch?v=SWYqp7iY_Tc
+É recomendável olhar esse [vídeo](https://www.youtube.com/watch?v=SWYqp7iY_Tc) pra saber o básico.
 
 -> Como instalar e ficar atualizado com a biblioteca da e-power através do GitHub:
 
@@ -12,7 +11,9 @@ Windows: http://git-scm.com/download/win
 Criar uma pasta (normalmente nos documentos), clicar com o botão direito e selecionar: "Git Bash Here"
 
 (Passo 3): rodar o comando:
+```
 git clone https://github.com/e-Power-UFRGS/e-Power_KiCad_library.git
+```
 
 Aqui você já está atualizado com a biblioteca da e-Power na versão mais recente. Agora já pode configurar esses arquivos no KiCad.
 
