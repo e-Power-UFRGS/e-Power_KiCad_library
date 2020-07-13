@@ -4,6 +4,10 @@
 
 ## Como instalar e ficar atualizado com a biblioteca da e-Power UFRGS pra KiCad através do GitHub:
 
+**(Passo 0):** Instalar o KiCad.
+
+- [Downloads](https://kicad-pcb.org/download/)
+
 **(Passo 1):** Instalar o Git.
 
 - [Windows](http://git-scm.com/download/win)
