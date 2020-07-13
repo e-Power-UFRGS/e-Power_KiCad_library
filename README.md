@@ -1,6 +1,6 @@
 # e-Power UFRGS KiCad library
 
-É recomendado olhar esse [vídeo](https://www.youtube.com/watch?v=SWYqp7iY_Tc) pra saber o básico.
+É recomendado olhar esse [vídeo](https://www.youtube.com/watch?v=SWYqp7iY_Tc) pra saber o básico sobre Git e GitHub.
 
 ## Como instalar e ficar atualizado com a biblioteca da e-Power UFRGS pra KiCad através do GitHub:
 
