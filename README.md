@@ -26,5 +26,8 @@ git push origin master       //envia para o servidor central as alterações fei
 git pull                     //requisita do servidor central as alterações feitas
 ```
 
+
+
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
