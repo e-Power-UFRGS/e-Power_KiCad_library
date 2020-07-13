@@ -1,0 +1,23 @@
+(module zero_ohm_resistor_0805 (layer F.Cu) (tedit 5ED0F331)
+  (descr zero_ohm_resistor_0805)
+  (attr smd)
+  (fp_text reference REF** (at 0 -1.27 unlocked) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value 0R (at 0 -2.667 unlocked) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start -0.8128 0.4826) (end -0.2128 0.4826) (layer F.SilkS) (width 0.12))
+  (fp_line (start -0.8128 -0.508) (end -0.2128 -0.508) (layer F.SilkS) (width 0.12))
+  (pad 1 smd custom (at -1.5 0) (size 1 1.25) (layers F.Cu F.Paste F.Mask)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+         (xy 1.5 -0.625) (xy 1.5 0.625) (xy 2.5 0.625) (xy 2.5 -0.625)) (width 0))
+    ))
+  (model ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0805_2012Metric.step
+    (offset (xyz -0.5 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)
