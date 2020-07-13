@@ -4,7 +4,7 @@
 
 ## Como instalar e ficar atualizado com a biblioteca da e-Power UFRGS pra KiCad através do GitHub:
 
-(Passo 1): Instalar o Git.
+**(Passo 1)**: Instalar o Git.
 
 - [Windows](http://git-scm.com/download/win)
 
