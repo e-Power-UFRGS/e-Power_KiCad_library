@@ -1,6 +1,6 @@
 # e-Power UFRGS KiCad library
 
-É recomendável olhar esse [vídeo](https://www.youtube.com/watch?v=SWYqp7iY_Tc) pra saber o básico.
+É recomendado olhar esse [vídeo](https://www.youtube.com/watch?v=SWYqp7iY_Tc) pra saber o básico.
 
 -> Como instalar e ficar atualizado com a biblioteca da e-power através do GitHub:
 
