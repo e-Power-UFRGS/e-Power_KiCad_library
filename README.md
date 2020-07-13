@@ -6,11 +6,11 @@
 
 **(Passo 0):** Instalar o KiCad.
 
-- [Downloads](https://kicad-pcb.org/download/)
+- [KiCad Downloads](https://kicad-pcb.org/download/)
 
 **(Passo 1):** Instalar o Git.
 
-- [Windows](http://git-scm.com/download/win)
+- [Git Downlaod (Windows)](http://git-scm.com/download/win)
 
 **(Passo 2):** Criar uma pasta (normalmente nos documentos), clicar com o botão direito e selecionar "Git Bash Here".
 
