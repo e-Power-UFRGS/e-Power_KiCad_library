@@ -8,12 +8,9 @@
 
 - Windows: http://git-scm.com/download/win
 
-(Passo 2):
+(Passo 2): criar uma pasta (normalmente nos documentos), clicar com o botão direito e selecionar "Git Bash Here"
 
-- criar uma pasta (normalmente nos documentos), clicar com o botão direito e selecionar "Git Bash Here"
-
-(Passo 3): 
-- rodar o comando:
+(Passo 3): rodar o comando:
 ```
 git clone https://github.com/e-Power-UFRGS/e-Power_KiCad_library.git
 ```
