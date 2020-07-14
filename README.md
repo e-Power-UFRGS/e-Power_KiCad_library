@@ -30,8 +30,11 @@ git push origin master       //envia para o servidor central as alterações fei
 git pull                     //requisita do servidor central as alterações feitas
 ```
 
-
-
+**(Passo 4):** Configurar os "paths" no KiCad para reconhecer os arquivos:
+```
+Preferences > Configure Paths
+```
+[Configure Paths](file:///C:/Users/gabri/Pictures/Screenshot_298.png)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
