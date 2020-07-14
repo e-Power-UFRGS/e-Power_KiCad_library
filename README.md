@@ -34,7 +34,7 @@ git pull                     //requisita do servidor central as alterações fei
 ```
 Preferences > Configure Paths
 ```
-[Configure Paths](file:///C:/Users/gabri/Pictures/Screenshot_298.png)
+![Configure Paths](https://user-images.githubusercontent.com/15946943/87470354-03d16200-c5f3-11ea-86e4-19bf7193a1f0.png)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
