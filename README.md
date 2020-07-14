@@ -46,16 +46,19 @@ Symbol Editor > Preferences > Manage Symbol Libraries... > Global Libraries > Ad
 ```
 Footprint Editor > Preferences > Manage Footprint Libraries... > Global Libraries > Add existing library to table
 ```
+![Footprint Editor](https://user-images.githubusercontent.com/15946943/87471654-1a78b880-c5f5-11ea-8855-57f1d5b482cc.png)
 
-
-**(Sempre que quiser atualizado do servidor):** 
+**(Sempre que quiser atualizar a partir do servidor):** Abrir com o Git Bash onde a pasta está instalada no computador
+```
+git pull
 ```
 
+**(Quando quiser enviar uma atualização pro servidor):** Abrir com o Git Bash onde a pasta está instalada no computador
 ```
-
-**(Quando quiser enviar uma atualização pro servidor):** 
-```
-Symbol Editor > Preferences > Manage Symbol Libraries... > Global Libraries > Add existing library to table
+git status
+git add .
+git commit -m "<message>"
+git push origin master
 ```
 
 
