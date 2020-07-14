@@ -23,11 +23,11 @@ Aqui você já está atualizado com a biblioteca da e-Power na versão mais rece
 
 Comandos úteis de se saber:
 ```
-git status                   //mostra os arquivos que foram alterados
-git add .                    //adiciona todos arquivos alterados
-git commit -m "<message>"    //realiza o commit com a mensagem que está entre aspas
-git push origin master       //envia para o servidor central as alterações feitas
-git pull                     //requisita do servidor central as alterações feitas
+git status                   // mostra os arquivos que foram alterados
+git add .                    // adiciona todos arquivos alterados
+git commit -m "<message>"    // realiza o commit com a mensagem que está entre aspas
+git push origin master       // envia para o servidor central as alterações feitas
+git pull                     // requisita do servidor central as alterações feitas
 ```
 
 **(Passo 4):** Configurar os "paths" no KiCad para reconhecer os arquivos:
@@ -35,6 +35,13 @@ git pull                     //requisita do servidor central as alterações fei
 Preferences > Configure Paths
 ```
 ![Configure Paths](https://user-images.githubusercontent.com/15946943/87470354-03d16200-c5f3-11ea-86e4-19bf7193a1f0.png)
+
+**(Passo 5):** Configurar a biblioteca de símbolos no "Symbol Editor"
+```
+Symbol Editor > Preferences > Manage Symbol Libraries... > Global Libraries > Add existing library to table
+```
+
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
