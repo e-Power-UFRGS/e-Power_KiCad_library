@@ -1,7 +1,7 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# 18650_Cell-e-Power
+# 18650_Cell-e-Power (oi)
 #
 DEF 18650_Cell-e-Power BT 0 0 N N 1 F N
 F0 "BT" 100 100 50 H V L CNN
