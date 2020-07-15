@@ -40,7 +40,8 @@ Preferences > Configure Paths
 ```
 Symbol Editor > Preferences > Manage Symbol Libraries... > Global Libraries > Add existing library to table
 ```
-![Symbol Editor](https://user-images.githubusercontent.com/15946943/87470998-041e2d00-c5f4-11ea-899b-ded169c538df.png)
+![Symbol Editor](https://user-images.githubusercontent.com/15946943/87526148-d4f1d500-c660-11ea-8e08-1d04aaf40542.png)
+
 
 **(Passo 6):** Configurar a biblioteca de footprints no "Footprint Editor"
 ```
