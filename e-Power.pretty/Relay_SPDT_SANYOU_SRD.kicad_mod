@@ -1,4 +1,4 @@
-(module Relay_SPDT_SANYOU_SRD (layer F.Cu) (tedit 5F078170)
+(module Relay_SPDT_SANYOU_SRD (layer F.Cu) (tedit 5F123828)
   (descr "relay Sanyou SRD series Form C http://www.sanyourelay.ca/public/products/pdf/SRD.pdf")
   (tags "relay Sanyu SRD form C")
   (fp_text reference REF** (at 8.1 9.2) (layer F.SilkS)
@@ -53,7 +53,7 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "C:/Program Files/KiCad/share/kicad/modules/e-Power.pretty/3D/Relay_SPDT_SANYOU_SRD_Series_Form_C.wrl"
+  (model ${KICAD_USER_3DMOD}/Relay_SPDT_SANYOU_SRD_Series_Form_C.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
