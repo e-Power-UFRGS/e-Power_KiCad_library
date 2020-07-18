@@ -1,4 +1,4 @@
-(module FUSE_1206_3216Metric (layer F.Cu) (tedit 5F123D56)
+(module FUSE_1206_3216Metric (layer F.Cu) (tedit 5F123F6A)
   (descr "FUSE SMD 1206 (3216 Metric), square (rectangular) end terminal")
   (tags FUSE)
   (attr smd)
@@ -24,7 +24,7 @@
   (pad 1 smd trapezoid (at -1.4 0) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd trapezoid (at 1.4 0) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask))
   (model ${KICAD_USER_3DMOD}/FUSE_1206.step
-    (at (xyz 0 0 0))
+    (offset (xyz 0 0 1))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 0 0))
   )
