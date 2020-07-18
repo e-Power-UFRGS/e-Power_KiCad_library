@@ -1,4 +1,4 @@
-(module TerminalBlock_Phoenix_MKDS-1,5-8-5.08_1x08_P5.08mm_Horizontal (layer F.Cu) (tedit 5EE83783)
+(module TerminalBlock_Phoenix_MKDS-1,5-8-5.08_1x08_P5.08mm_Horizontal (layer F.Cu) (tedit 5F131C51)
   (descr "Terminal Block Phoenix MKDS-1,5-8-5.08, 8 pins, pitch 5.08mm, size 40.6x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix")
   (tags "THT Terminal Block Phoenix MKDS-1,5-8-5.08 pitch 5.08mm size 40.6x9.8mm^2 drill 1.3mm pad 2.6mm")
   (fp_text reference REF** (at 17.78 -6.26) (layer F.SilkS)
@@ -108,8 +108,8 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 10 0 0))
   )
-  (model "C:/Program Files/KiCad/share/kicad/modules/e-Power.pretty/3D/MKDS-8-5.08.step"
-    (offset (xyz 38 5.5 0))
+  (model ${KICAD_USER_3DMOD}/MKDS-8-5.08.step
+    (offset (xyz 38 5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 -90))
   )

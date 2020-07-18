@@ -1,4 +1,4 @@
-(module Fuse_TH (layer F.Cu) (tedit 5EB8D0F0)
+(module Fuse_TH (layer F.Cu) (tedit 5F131916)
   (descr "Fuse SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator")
   (tags resistor)
   (attr smd)
@@ -23,8 +23,8 @@
   (fp_line (start 3.302 -2.286) (end 12.7 -2.286) (layer F.SilkS) (width 0.12))
   (pad 1 smd rect (at 0 0) (size 6 5) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 16 0) (size 6 5) (layers F.Cu F.Paste F.Mask))
-  (model "C:/Program Files/KiCad/share/kicad/modules/e-Power.pretty/3D/20mm_fuse.step"
-    (offset (xyz -2 2.5 2.2))
+  (model ${KICAD_USER_3DMOD}/20mm_fuse.step
+    (offset (xyz -2 2.5 2.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))
   )

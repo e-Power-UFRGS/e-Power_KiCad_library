@@ -1,4 +1,4 @@
-(module zero_ohm_resistor_0805 (layer F.Cu) (tedit 5ED0F331)
+(module zero_ohm_resistor_0805 (layer F.Cu) (tedit 5F131C89)
   (descr zero_ohm_resistor_0805)
   (attr smd)
   (fp_text reference REF** (at 0 -1.27 unlocked) (layer F.SilkS)

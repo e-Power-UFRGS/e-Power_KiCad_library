@@ -1,4 +1,4 @@
-(module DIP-8_SMD (layer F.Cu) (tedit 5E820828)
+(module DIP-8_SMD (layer F.Cu) (tedit 5F131607)
   (descr "SMD 8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)")
   (tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
   (attr smd)
@@ -34,7 +34,7 @@
   (pad 7 smd rect (at 7.62 2.54) (size 2.2 1.6) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at 0 7.62) (size 2.2 1.6) (layers F.Cu F.Paste F.Mask))
   (pad 8 smd rect (at 7.62 0) (size 2.2 1.6) (layers F.Cu F.Paste F.Mask))
-  (model "C:/Program Files/KiCad/share/kicad/modules/e-Power.pretty/3D/DIP-8-SMD.step"
+  (model ${KICAD_USER_3DMOD}/DIP-8-SMD.step
     (offset (xyz 0 0 -0.2))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

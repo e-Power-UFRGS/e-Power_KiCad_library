@@ -1,4 +1,4 @@
-(module TLP290-4 (layer F.Cu) (tedit 5E811A80)
+(module TLP290-4 (layer F.Cu) (tedit 5F131AFF)
   (descr "16-lead TH DIP package")
   (tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
   (fp_text reference REF** (at 3.81 -2.33) (layer F.SilkS)
@@ -54,7 +54,7 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "C:/Program Files/KiCad/share/kicad/modules/e-Power.pretty/3D/DIP-16-SOQUET-SMD.step"
+  (model ${KICAD_USER_3DMOD}/DIP-16-SOQUET-SMD.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -1,4 +1,4 @@
-(module TRIMPOT_10TURNS (layer F.Cu) (tedit 5E800BD1)
+(module TRIMPOT_10TURNS (layer F.Cu) (tedit 5F131BC1)
   (descr "Potentiometer, horizontal, Vishay T73XW, http://www.vishay.com/docs/51016/t73.pdf")
   (tags "Potentiometer horizontal Vishay T73XW")
   (fp_text reference REF** (at 0 -2.01) (layer F.SilkS)
@@ -27,7 +27,7 @@
   (pad 3 smd rect (at 0 5.08) (size 5 1.6) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 0 2.54) (size 5 1.6) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at 0 0) (size 5 1.6) (layers F.Cu F.Paste F.Mask))
-  (model "C:/Program Files/KiCad/share/kicad/modules/e-Power.pretty/3D/TRIMPOT_10TURNS.step"
+  (model ${KICAD_USER_3DMOD}/TRIMPOT_10TURNS.step
     (offset (xyz -1 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -1,4 +1,4 @@
-(module TO-220-3_SMD_horizontal (layer F.Cu) (tedit 5E8137F6)
+(module TO-220-3_SMD_horizontal (layer F.Cu) (tedit 5F131BA2)
   (descr "TO-220-3, Horizontal, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf")
   (tags "TO-220-3 Horizontal RM 2.54mm")
   (fp_text reference REF** (at 2.54 -20.58) (layer F.SilkS)
@@ -38,7 +38,7 @@
   (pad 2 smd rect (at 2.54 0) (size 2 4) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 5.08 0) (size 2 4) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 2.54 -11.43) (size 11 17) (layers F.Cu F.Paste F.Mask))
-  (model "C:/Program Files/KiCad/share/kicad/modules/e-Power.pretty/3D/TO-220-3_Horizontal_SMD.step"
+  (model ${KICAD_USER_3DMOD}/TO-220-3_Horizontal_SMD.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

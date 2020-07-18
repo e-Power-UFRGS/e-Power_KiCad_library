@@ -1,4 +1,4 @@
-(module FUSE_1206_3216Metric (layer F.Cu) (tedit 5F123F6A)
+(module FUSE_1206_3216Metric (layer F.Cu) (tedit 5F131886)
   (descr "FUSE SMD 1206 (3216 Metric), square (rectangular) end terminal")
   (tags FUSE)
   (attr smd)

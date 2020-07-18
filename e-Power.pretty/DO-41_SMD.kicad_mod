@@ -1,4 +1,4 @@
-(module DO-41_SMD (layer F.Cu) (tedit 5EB7BFED)
+(module DO-41_SMD (layer F.Cu) (tedit 5F1316F9)
   (descr "DO-41 SMD 1N5819")
   (tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 7.62mm  length 5.2mm diameter 2.7mm")
   (fp_text reference REF** (at 3.81 -2.47) (layer F.SilkS)
@@ -41,8 +41,8 @@
   (fp_poly (pts (xy 3.556 1.27) (xy 2.286 0) (xy 3.556 -1.27)) (layer F.SilkS) (width 0.1))
   (pad 1 smd rect (at -1.016 0) (size 2.8 2.2) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 8.89 0) (size 2.8 2.2) (layers F.Cu F.Paste F.Mask))
-  (model "C:/Program Files/KiCad/share/kicad/modules/e-Power.pretty/3D/DO-41.STEP"
-    (offset (xyz 9 0 0.2))
+  (model ${KICAD_USER_3DMOD}/DO-41.STEP
+    (offset (xyz 9 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
