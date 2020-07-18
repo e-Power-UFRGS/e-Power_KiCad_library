@@ -1,4 +1,4 @@
-(module DSUB-9_Female_EdgeMount_P2.77mm (layer F.Cu) (tedit 5F1317F6)
+(module DSUB-9_Female_EdgeMount_P2.77mm (layer F.Cu) (tedit 5F1323E8)
   (descr "9-pin D-Sub connector, solder-cups edge-mounted, female, x-pin-pitch 2.77mm, distance of mounting holes 25mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf")
   (tags "9-pin D-Sub connector edge mount solder cup female x-pin-pitch 2.77mm mounting holes distance 25mm")
   (attr smd)
@@ -102,8 +102,8 @@
   (pad 8 smd rect (at -1.385 0) (size 1.846667 3.48) (layers B.Cu B.Paste B.Mask))
   (pad 9 smd rect (at -4.155 0) (size 1.846667 3.48) (layers B.Cu B.Paste B.Mask))
   (model "${KICAD_USER_3DMOD}/DSUB-9 SMD.step"
-    (offset (xyz 0 7.5 -1))
+    (offset (xyz 0 -7 -0.75))
     (scale (xyz 1 1 1))
-    (rotate (xyz 90 180 0))
+    (rotate (xyz -90 0 0))
   )
 )
