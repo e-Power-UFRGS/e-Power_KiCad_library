@@ -2,6 +2,8 @@
 
 É recomendado olhar esse [vídeo](https://www.youtube.com/watch?v=SWYqp7iY_Tc) que explica o básico sobre Git e GitHub e esse [vídeo](https://www.youtube.com/watch?v=75QfD59yHT8) que explica e descreve esse guia de forma didática.
 
+Siga as convenções padrão de biblioteca do KiCad: https://kicad-pcb.org/libraries/klc/
+
 ## Como instalar e ficar atualizado com a biblioteca da e-Power UFRGS pra KiCad através do GitHub:
 
 **(Passo 0):** Instalar o KiCad.
