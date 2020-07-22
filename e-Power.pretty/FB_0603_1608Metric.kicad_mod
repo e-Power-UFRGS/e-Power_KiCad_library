@@ -1,4 +1,4 @@
-(module FB_0603_1608Metric (layer F.Cu) (tedit 5ECA34AC)
+(module FB_0603_1608Metric (layer F.Cu) (tedit 5F13187D)
   (descr "Ferrite bead SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
   (tags "Ferrite bead")
   (attr smd)
@@ -23,7 +23,7 @@
   )
   (pad 1 smd trapezoid (at -0.7875 0) (size 0.875 0.95) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd trapezoid (at 0.7875 0) (size 0.875 0.95) (layers F.Cu F.Paste F.Mask))
-  (model "C:/Program Files/KiCad/share/kicad/modules/e-Power.pretty/3D/FB_0603.STEP"
+  (model ${KICAD_USER_3DMOD}/FB_0603.STEP
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

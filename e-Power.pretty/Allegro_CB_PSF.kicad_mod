@@ -1,4 +1,4 @@
-(module Allegro_CB_PSF (layer F.Cu) (tedit 5EC08706)
+(module Allegro_CB_PSF (layer F.Cu) (tedit 5F1315B1)
   (descr "Allegro MicroSystems, CB-PSF Package (http://www.allegromicro.com/en/Products/Current-Sensor-ICs/Fifty-To-Two-Hundred-Amp-Integrated-Conductor-Sensor-ICs/ACS758.aspx)")
   (tags "Allegro CB-PSF")
   (fp_text reference REF** (at 1.91 -17.2) (layer F.SilkS)
@@ -71,8 +71,8 @@
   (pad 1 smd rect (at 0 0) (size 1.5 3) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at 6.91 -24.6) (size 5.5 12) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd rect (at -3.09 -24.6) (size 5.5 12) (layers F.Cu F.Paste F.Mask))
-  (model "C:/Program Files/KiCad/share/kicad/modules/e-Power.pretty/3D/ACS758ECB-200B-PFF-T.step"
-    (offset (xyz -5 -0.2 -6.5))
+  (model ${KICAD_USER_3DMOD}/ACS758ECB-200B-PFF-T.step
+    (offset (xyz -5 0 -6.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )

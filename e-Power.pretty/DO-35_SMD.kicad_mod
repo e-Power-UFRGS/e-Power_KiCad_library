@@ -1,4 +1,4 @@
-(module DO-35_SMD (layer F.Cu) (tedit 5EB7C004)
+(module DO-35_SMD (layer F.Cu) (tedit 5F1316E1)
   (descr "DO-35 SMD 1N4148")
   (tags "DIODE, DO-35 SMD FOOTPRINT")
   (attr smd)
@@ -44,8 +44,8 @@
   (fp_line (start 3.556 -1.47) (end 3.556 1.47) (layer F.SilkS) (width 0.12))
   (pad 1 smd rect (at 0 0) (size 2.2 2.2) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 10.16 0) (size 2.2 2.2) (layers F.Cu F.Paste F.Mask))
-  (model "C:/Program Files/KiCad/share/kicad/modules/e-Power.pretty/3D/DO-35-40.step"
-    (offset (xyz 5 0 0.1))
+  (model ${KICAD_USER_3DMOD}/DO-35-40.step
+    (offset (xyz 5 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )

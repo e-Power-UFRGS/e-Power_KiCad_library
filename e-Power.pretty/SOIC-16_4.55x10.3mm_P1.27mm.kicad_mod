@@ -1,4 +1,4 @@
-(module SOIC-16_4.55x10.3mm_P1.27mm (layer F.Cu) (tedit 5ECA27A5)
+(module SOIC-16_4.55x10.3mm_P1.27mm (layer F.Cu) (tedit 5F131A80)
   (descr "SOIC, 16 Pin (https://toshiba.semicon-storage.com/info/docget.jsp?did=12858&prodName=TLP291-4), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "SOIC SO")
   (attr smd)
@@ -50,7 +50,7 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "C:/Program Files/KiCad/share/kicad/modules/e-Power.pretty/3D/SO-16(2).step"
+  (model ${KICAD_USER_3DMOD}/SO-16.step
     (offset (xyz -3 4.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

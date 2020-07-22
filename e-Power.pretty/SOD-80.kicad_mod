@@ -1,4 +1,4 @@
-(module SOD-80 (layer F.Cu) (tedit 5E7C2430)
+(module SOD-80 (layer F.Cu) (tedit 5F131A49)
   (descr "SOD-80 LL4148 footprint")
   (attr smd)
   (fp_text reference REF** (at 0 -1.905) (layer F.SilkS)
@@ -24,7 +24,7 @@
   (fp_poly (pts (xy -0.3556 0.6604) (xy -1.016 0) (xy -0.3556 -0.6604)) (layer F.SilkS) (width 0.1))
   (pad 1 smd rect (at -1.875 0) (size 1.25 2) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 1.875 0) (size 1.25 2) (layers F.Cu F.Paste F.Mask))
-  (model "C:/Program Files/KiCad/share/kicad/modules/e-Power.pretty/3D/SOD-80.STEP"
+  (model ${KICAD_USER_3DMOD}/SOD-80.STEP
     (offset (xyz 0 0 0.6))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 -90 0))
