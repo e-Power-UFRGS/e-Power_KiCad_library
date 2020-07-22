@@ -1,6 +1,6 @@
-(module UFRGS_22.0x12.0mm_Copper (layer F.Cu) (tedit 5E7BE412)
-  (descr "logo da UFRGS com 22.0mm de altura e 12.0mm de largura")
+(module Logo_UFRGS_22.0x12.0mm_Copper (layer F.Cu) (tedit 5F177634)
   (tags "logo UFRGS")
+  (attr virtual)
   (fp_text reference G*** (at -6.858 0) (layer F.SilkS) hide
     (effects (font (size 1.524 1.524) (thickness 0.3)))
   )

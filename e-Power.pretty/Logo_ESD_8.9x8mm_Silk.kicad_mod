@@ -1,5 +1,5 @@
-(module ESD-Logo_8.9x8mm_Copper (layer F.Cu) (tedit 5E8225A3)
-  (descr "Electrostatic discharge Logo")
+(module Logo_ESD_8.9x8mm_Silk (layer F.Cu) (tedit 5F17759B)
+  (descr "Electrostatic discharge Logo on Silkscreen layer")
   (tags "Logo ESD")
   (attr virtual)
   (fp_text reference REF** (at 0 0) (layer F.SilkS) hide

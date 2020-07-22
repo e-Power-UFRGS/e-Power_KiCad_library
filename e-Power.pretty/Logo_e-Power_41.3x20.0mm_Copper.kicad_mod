@@ -1,4 +1,4 @@
-(module e-Power_41.3x20.0mm_Copper (layer F.Cu) (tedit 5F0DF206)
+(module Logo_e-Power_41.3x20.0mm_Copper (layer F.Cu) (tedit 5F1772C2)
   (fp_text reference G*** (at -16.51 -8.89) (layer F.SilkS) hide
     (effects (font (size 1.524 1.524) (thickness 0.3)))
   )

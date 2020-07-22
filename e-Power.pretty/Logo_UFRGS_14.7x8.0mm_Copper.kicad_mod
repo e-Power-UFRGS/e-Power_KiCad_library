@@ -1,10 +1,10 @@
-(module UFRGS_14.7x8.0mm_Copper (layer F.Cu) (tedit 5E7BCED7)
-  (descr "logo da UFRGS com 14.7mm de altura e 8.0mm de largura")
+(module Logo_UFRGS_14.7x8.0mm_Copper (layer F.Cu) (tedit 5F17763F)
   (tags "logo UFRGS")
-  (fp_text reference G*** (at 0 0) (layer F.SilkS) hide
+  (attr virtual)
+  (fp_text reference G*** (at -5.588 0) (layer F.SilkS) hide
     (effects (font (size 1.524 1.524) (thickness 0.3)))
   )
-  (fp_text value LOGO (at 0.75 0) (layer F.SilkS) hide
+  (fp_text value UFRGS_14.7x8.0mm_Copper (at 0 5.588) (layer F.SilkS) hide
     (effects (font (size 1.524 1.524) (thickness 0.3)))
   )
   (fp_poly (pts (xy -6.604 1.927526) (xy -6.602659 2.26458) (xy -6.598261 2.527183) (xy -6.590244 2.725514)
