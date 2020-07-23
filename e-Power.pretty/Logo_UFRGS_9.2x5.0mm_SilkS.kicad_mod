@@ -1,4 +1,4 @@
-(module Logo_UFRGS_9.2x5.0mm_Silk (layer F.Cu) (tedit 5F1774FC)
+(module Logo_UFRGS_9.2x5.0mm_SilkS (layer F.Cu) (tedit 5F1951A9)
   (tags "logo UFRGS")
   (fp_text reference G*** (at 4.2164 -1.016) (layer F.SilkS) hide
     (effects (font (size 1.524 1.524) (thickness 0.3)))

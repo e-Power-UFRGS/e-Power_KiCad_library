@@ -1,4 +1,4 @@
-(module Logo_UFRGS_11.0x6.0mm_Silk (layer F.Cu) (tedit 5F17764B)
+(module Logo_UFRGS_11.0x6.0mm_SilkS (layer F.Cu) (tedit 5F1951AF)
   (tags "logo UFRGS")
   (attr virtual)
   (fp_text reference G*** (at -2.6162 3.6576) (layer F.SilkS) hide

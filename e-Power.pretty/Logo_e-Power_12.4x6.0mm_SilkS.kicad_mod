@@ -1,4 +1,4 @@
-(module Logo_e-Power_12.4x6.0mm_Silk (layer F.Cu) (tedit 5F17736D)
+(module Logo_e-Power_12.4x6.0mm_SilkS (layer F.Cu) (tedit 5F195193)
   (attr virtual)
   (fp_text reference G*** (at -2.032 -4.064) (layer F.SilkS) hide
     (effects (font (size 1.524 1.524) (thickness 0.3)))
