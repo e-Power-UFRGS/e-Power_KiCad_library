@@ -4,4 +4,10 @@ $CMP LED
 D LED SMD 0805
 $ENDCMP
 #
+$CMP Si2302DS
+D 20V Vds, 2.8A Id, N-Channel MOSFET, SOT-23
+K N-Channel MOSFET
+F https://www.vishay.com/docs/70628/70628.pdf
+$ENDCMP
+#
 #End Doc Library
