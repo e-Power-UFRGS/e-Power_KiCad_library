@@ -1,13 +1,22 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP IRLML2060
-D 1.2A Id, 60V Vds, N-Channel MOSFET, 480mOhm Rds, SOT-23
-K N-Channel MOSFET
-F https://www.infineon.com/dgdl/irlml2060pbf.pdf?fileId=5546d462533600a401535664b7fb25ee
-$ENDCMP
-#
 $CMP LED
 D LED SMD 0805
+$ENDCMP
+#
+$CMP Logo_High_Voltage_Large
+D High voltage warning symbol, large
+K Logo
+$ENDCMP
+#
+$CMP Logo_UFRGS_Large
+D UFRGS symbol, large
+K logo
+$ENDCMP
+#
+$CMP Logo_e-Power_Large
+D e-Power symbol, large
+K logo
 $ENDCMP
 #
 $CMP Si2302DS

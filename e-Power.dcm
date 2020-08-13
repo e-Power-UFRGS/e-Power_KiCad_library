@@ -4,6 +4,21 @@ $CMP LED
 D LED SMD 0805
 $ENDCMP
 #
+$CMP Logo_High_Voltage_Large
+D High voltage warning symbol, large
+K Logo
+$ENDCMP
+#
+$CMP Logo_UFRGS_Large
+D UFRGS symbol, large
+K logo
+$ENDCMP
+#
+$CMP Logo_e-Power_Large
+D e-Power symbol, large
+K logo
+$ENDCMP
+#
 $CMP Si2302DS
 D 20V Vds, 2.8A Id, N-Channel MOSFET, SOT-23
 K N-Channel MOSFET
