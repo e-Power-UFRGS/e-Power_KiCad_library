@@ -19,10 +19,20 @@ D e-Power symbol, large
 K logo
 $ENDCMP
 #
+$CMP SS54HF
+D 40V, 5A, Schottky Barrier Rectifier, DO-214
+$ENDCMP
+#
 $CMP Si2302DS
 D 20V Vds, 2.8A Id, N-Channel MOSFET, SOT-23
 K N-Channel MOSFET
 F https://www.vishay.com/docs/70628/70628.pdf
+$ENDCMP
+#
+$CMP TL431
+D Shunt Regulator, SOT-23
+K diode device shunt regulator
+F http://www.ti.com/lit/ds/symlink/tl431.pdf
 $ENDCMP
 #
 #End Doc Library
