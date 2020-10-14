@@ -1,5 +1,23 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP DW01A
+D One Cell Lithium-ion/Polymer Battery IC
+K SOT-23-6 lithium ion protection
+F https://datasheet.lcsc.com/szlcsc/Fortune-Semicon-DW01A-G_C61503.pdf
+$ENDCMP
+#
+$CMP FS8205A
+D 20V Vds, 2.8A Id, N-Channel MOSFET, SOT-23
+K N-Channel MOSFET
+F https://datasheet.lcsc.com/szlcsc/Fortune-Semicon-FS8205A_C16052.pdf
+$ENDCMP
+#
+$CMP G5NB-1A-E
+D Omron G5NB-1A-E relay, Miniature Single Pole, SPST-NO, 5A 250VAC
+K Miniature Single Pole Relay
+F https://www.mouser.com/datasheet/2/307/en_g5nb-1112517.pdf
+$ENDCMP
+#
 $CMP LED
 D LED SMD 0805
 $ENDCMP
@@ -19,8 +37,15 @@ D e-Power symbol, large
 K logo
 $ENDCMP
 #
+$CMP MT3608
+D One Cell Lithium-ion/Polymer Battery IC
+K SOT-23-6 lithium ion protection
+F https://datasheet.lcsc.com/szlcsc/XI-AN-Aerosemi-Tech-MT3608_C84817.pdf
+$ENDCMP
+#
 $CMP SS54HF
 D 40V, 5A, Schottky Barrier Rectifier, DO-214
+F https://www.taitroncomponents.com/catalog/Datasheet/SS52.pdf
 $ENDCMP
 #
 $CMP Si2302DS
@@ -33,6 +58,12 @@ $CMP TL431
 D Shunt Regulator, SOT-23
 K diode device shunt regulator
 F http://www.ti.com/lit/ds/symlink/tl431.pdf
+$ENDCMP
+#
+$CMP TP4056
+D 1A Standalone Linear Li-ion battery charger with thermal regulation
+K SOP-8 battery charger
+F https://datasheet.lcsc.com/szlcsc/1906261508_Nanjing-Extension-Microelectronics-TP4056-42-ESOP8_C16581.pdf
 $ENDCMP
 #
 #End Doc Library
